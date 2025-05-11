@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Your Name]
+# 👋 Hi there! I'm Viktor Podhornyi
 
 I'm a passionate developer from [Your Country], currently focused on [your focus: web development, backend, DevOps, etc.].  
 I enjoy building things with code, learning new technologies, and contributing to open source.
