@@ -5,7 +5,7 @@ I enjoy building things with code, learning new technologies, and contributing t
 
 ## 🚀 Projects
 
-- 🔧 [**Project 1**]([https://github.com/yourusername/project1](https://github.com/vpodhornyi/TypescriptTetris)): A simple implementation of the classic Tetris game using TypeScript and plain HTML/CSS — no frameworks, no canvas, no build tools.
+- 🔧 [**Tetris**]([https://github.com/yourusername/project1](https://github.com/vpodhornyi/TypescriptTetris)): A simple implementation of the classic Tetris game using TypeScript and plain HTML/CSS — no frameworks, no canvas, no build tools.
 - 📦 [**Project 2**](https://github.com/yourusername/project2): Another brief description.
 
 ## 🛠️ Technologies & Tools
