@@ -21,9 +21,9 @@ I enjoy building things with code, learning new technologies, and contributing t
 
 ## 🧠 Codewars
 
-I enjoy solving coding challenges on [Codewars](https://www.codewars.com/users/your_username).
+I enjoy solving coding challenges on [Codewars](https://www.codewars.com/users/vpodhornyi).
 
-![Codewars](https://www.codewars.com/users/your_username/badges/large)
+![Codewars](https://www.codewars.com/users/vpodhornyi/badges/large)
 
 ## 📈 GitHub Stats
 
