@@ -6,7 +6,7 @@ I enjoy building things with code, learning new technologies, and contributing t
 ## 🚀 Projects
 
 - 🔧 [**Tetris**]([https://github.com/yourusername/project1](https://github.com/vpodhornyi/TypescriptTetris)): A simple implementation of the classic Tetris game using TypeScript and plain HTML/CSS — no frameworks, no canvas, no build tools.
-- 📦 [**Project 2**](https://github.com/yourusername/project2): Another brief description.
+- 📦 [**Booking**]([https://github.com/yourusername/project2](https://github.com/vpodhornyi/JavaBasicStepBooking)): A simple Java console application that simulates an airline ticket booking system. The project supports two user roles — Admin and Client — and allows users to book and manage flight tickets through a text-based interface.
 
 ## 🛠️ Technologies & Tools
 
