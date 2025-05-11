@@ -10,6 +10,7 @@ I enjoy building things with code, learning new technologies, and contributing t
 
 ## 🛠️ Technologies & Tools
 
+![Java](https://img.shields.io/badge/-Java-333?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat-square&logo=node.js)
