@@ -19,6 +19,12 @@ I enjoy building things with code, learning new technologies, and contributing t
 ![VS Code](https://img.shields.io/badge/-VS_Code-333?style=flat-square&logo=visual-studio-code)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-333?style=flat-square&logo=intellij-idea)
 
+## 🧠 Codewars
+
+I enjoy solving coding challenges on [Codewars](https://www.codewars.com/users/your_username).
+
+![Codewars](https://www.codewars.com/users/your_username/badges/large)
+
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark)
