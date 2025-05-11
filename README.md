@@ -17,6 +17,7 @@ I enjoy building things with code, learning new technologies, and contributing t
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS_Code-333?style=flat-square&logo=visual-studio-code)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-333?style=flat-square&logo=intellij-idea)
 
 ## 📈 GitHub Stats
 
