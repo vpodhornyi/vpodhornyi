@@ -25,6 +25,13 @@ I enjoy solving coding challenges on [Codewars](https://www.codewars.com/users/v
 
 ![Codewars](https://www.codewars.com/users/vpodhornyi/badges/large)
 
+## ☁️ Google Cloud Skills
+
+Check out my achievements and labs on [Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/5e0af622-da4b-435c-ae55-662fc47a30de).
+
+[![Google Cloud Badge](https://img.shields.io/badge/Google%20Cloud-Skills%20Profile-blue?logo=googlecloud&style=flat-square)](https://www.cloudskillsboost.google/public_profiles/5e0af622-da4b-435c-ae55-662fc47a30de)
+
+
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark)
