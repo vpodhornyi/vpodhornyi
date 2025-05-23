@@ -34,8 +34,8 @@ Check out my achievements and labs on [Google Cloud Skills Boost](https://www.cl
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vpodhornyi&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vpodhornyi&layout=compact&theme=github_dark)
 
 ## 📫 Contact Me
 
