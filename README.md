@@ -39,7 +39,7 @@ Check out my achievements and labs on [Google Cloud Skills Boost](https://www.cl
 
 ## 📫 Contact Me
 
-- Email: [youremail@example.com]
+- Email: [vpodhornyi@gmail.com]
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 - Telegram: [@yourhandle](https://t.me/yourhandle)
 
