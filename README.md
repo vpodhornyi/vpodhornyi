@@ -8,7 +8,7 @@ I enjoy building things with code, learning new technologies, and contributing t
 - 🔧 [**Tetris**](https://github.com/vpodhornyi/TypescriptTetris): A simple implementation of the classic Tetris game using TypeScript and plain HTML/CSS — no frameworks, no canvas, no build tools.
 - 📦 [**Booking**](https://github.com/vpodhornyi/JavaBasicStepBooking): A simple Java console application that simulates an airline ticket booking system. The project supports two user roles — **Admin and Client** — and allows users to book and manage flight tickets through a text-based interface.
 - 📦 [**Twitter clone**](https://github.com/vpodhornyi/JavaTwitterClone): A base-featured Twitter clone built with **Java 17**, **Spring Boot**, **PostgreSQL**, and **RabbitMQ**, including a modern **React frontend** and **real-time messaging** over **WebSocket**.
-- 
+
 ## 🛠️ Technologies & Tools
 
 ![Java](https://img.shields.io/badge/-Java-333?style=flat-square&logo=java)
