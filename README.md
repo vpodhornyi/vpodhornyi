@@ -43,6 +43,7 @@ Check out my achievements and labs on [Google Cloud Skills Boost](https://www.cl
 
 - Email: [vpodhornyi@gmail.com]
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white) [Chat on WhatsApp](https://wa.me/491234567890)
 - Telegram: [@yourhandle](https://t.me/yourhandle)
 
 ---
