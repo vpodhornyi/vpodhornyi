@@ -42,7 +42,7 @@ Check out my achievements and labs on [Google Cloud Skills Boost](https://www.cl
 ## 📫 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-vpodhornyi@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vpodhornyi@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourProfile-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/viktor-podhornyi-4b4417188/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourProfile-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/viktor-podhornyi-4b4417188/)
 [![Telegram](https://img.shields.io/badge/Telegram-@Jk323nm-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/@Jk323nm)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Available_on_request-25D366?style=flat&logo=whatsapp&logoColor=white)](#)
 
