@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Viktor
 
-I'm a passionate developer from Ukraine, currently I live in Germany and focused on web development, backend, DevOps, etc.  
+I'm a developer from Ukraine, currently I live in Germany and focused on web development, backend, DevOps, etc.  
 I enjoy building things with code, learning new technologies, and contributing to open source.
 
 ## 🚀 Projects
