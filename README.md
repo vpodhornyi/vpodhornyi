@@ -6,9 +6,9 @@ Goal-oriented, eager to learn, and open to new challenges in an international en
 
 ## 🚀 Projects
 
-- 📦 [**Portfolio**](https://github.com/vpodhornyi/portfolio): Modern Portfolio built with **Next.js 16**, **Tailwind CSS v4**, and **Framer Motion**. Features a professional **i18n** setup, Dockerized for production, and deployed on a **VPS** via an automated **GitHub Actions CI/CD** pipeline.[**Link**](https://vpodhornyi,com)
+- 📦 [**Portfolio**](https://github.com/vpodhornyi/portfolio): Modern Portfolio built with **Next.js 16**, **Tailwind CSS v4**, and **Framer Motion**. Features a professional **i18n** setup, Dockerized for production, and deployed on a **VPS** via an automated **GitHub Actions CI/CD** pipeline. [Link](https://vpodhornyi,com)
 - 📦 [**Twitter clone**](https://github.com/vpodhornyi/JavaTwitterClone): A base-featured Twitter clone built with **Java 17**, **Spring Boot**, **PostgreSQL**, and **RabbitMQ**, including a modern **React frontend** and **real-time messaging** over **WebSocket**.
-- 📦 [**Tetris**](https://github.com/vpodhornyi/TypescriptTetris): A simple implementation of the classic Tetris game using **TypeScript** and plain **HTML/CSS** — no frameworks, no canvas, no build tools.[**Link**](https://vpodhornyi.github.io/TypescriptTetris/)
+- 📦 [**Tetris**](https://github.com/vpodhornyi/TypescriptTetris): A simple implementation of the classic Tetris game using **TypeScript** and plain **HTML/CSS** — no frameworks, no canvas, no build tools. [Link](https://vpodhornyi.github.io/TypescriptTetris/)
 - 📦 [**Booking**](https://github.com/vpodhornyi/JavaBasicStepBooking): A simple **Java** console application that simulates an airline ticket booking system. The project supports two user roles — **Admin and Client** — and allows users to book and manage flight tickets through a text-based interface.
 - 📦 [**Forkio**](https://github.com/vpodhornyi/forkio): **Forkio** is an adaptive HTML/CSS layout project based on a PSD design provided in four resolutions. The project demonstrates responsive and fluid web design techniques using HTML, SCSS, and Gulp.
 
