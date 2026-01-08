@@ -1,7 +1,8 @@
 # 👋 Hi there! I'm Viktor
 
-I'm a developer from Ukraine, currently I live in Germany and focused on web development, backend, DevOps, etc.  
-I enjoy building things with code, learning new technologies, and contributing to open source.
+Motivated full-stack developer with experience in Java (Spring Boot) and JavaScript (React, Node.js).
+Passionate about modern web technologies, clean code, and teamwork.
+Goal-oriented, eager to learn, and open to new challenges in an international environment.
 
 ## 🚀 Projects
 
